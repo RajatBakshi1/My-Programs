@@ -82,8 +82,8 @@ for x in hello:
 
     if x==value:
         hello.remove(x)
-'''
 print(hello)
+'''
     
 
     
